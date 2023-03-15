@@ -1,5 +1,10 @@
 {
   "devDependencies": {
     "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "transpile": "npx tsc",
+    "start": "node dist/script.js",
+    "serve": "npm run transpile && npm run start"
   }
 }
