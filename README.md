@@ -1,6 +1,7 @@
 # Intro to TypeScript
 
-We at [arconsis](https://www.arconsis.com) have developed a TypeScript course for you that is being taught live (and most importantly) free on Twitch. 
+I have developed a TypeScript course for you that is being taught live (and most importantly) free on [Twitch](https://www.twitch.tv/arconsis).  
+If you have missed any streams, you can always watch the course on [Youtube](https://www.youtube.com/playlist?list=PLievaKnl8uRTNBUveXi9TjAjr7y8ndtwV).
 
 ## What is [TypeScript](https://www.typescriptlang.org/)?
 
@@ -11,7 +12,7 @@ TypeScript is the superset of JavaScript. This means that it makes development s
 
 TypeScript is continuously rising in popularity. The "State Of JavaScript" Survey proves just that
 - TypeScript is by far the most popular [JavaScript Flavour](https://2022.stateofjs.com/en-US/other-tools/#javascript_flavors).  
-- People use TypeScript [more](https://2022.stateofjs.com/en-US/usage/) then they use JavaScript
+- People use TypeScript [more](https://2022.stateofjs.com/en-US/usage/) than they use JavaScript.
 
 ## Resources
 
