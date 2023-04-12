@@ -1,39 +1,36 @@
-function hello() {
-  const name = "Stephan"
-  console.log(name)
-}
-hello()
+// // let i = 0
+// // while(i < 5) {
+// //   console.log("Hello World", i)
+// //   i = i + 1
+// // }
 
-function getNumber() {
-  return 5
-}
-const myNumber = getNumber()
-console.log(myNumber)
+// // for(let i = 0; i < 5; ++i) {
+// //  console.log("Hi there") 
+// // }
 
-function greeting(name: string) {
-  console.log("Hello " + name)
-}
-greeting("Stephan")
-greeting("Max")
+// // let num1 = 5
+// // let num2 = num1--
+// // console.log(num1, num2)
 
+// let num1 = 1
+// const num2: number = 2
+// // ...                      [0, 1, 2, 3, 4]
+// const arrNumber: number[] = [1, 2, 3, 4, 5]
+// const arrStrings: string[] = ["Hi", "Hello", "Howdy", "Hello", "Moin", "Hello"]
+// // console.log(arrNumber[4])
+// // console.log(arrNumber.length)
 
-function add(num1: number, num2: number) {
-  return num1 * num2
-}
-console.log(add(17, 23))
-console.log(add(17, 23))
-console.log(add(17, 23))
+// // for(let i = arrStrings.length-2; i < arrStrings.length; i++) {
+// //   console.log(arrStrings[i], i)
+// // }
 
-function userInfo(username: string, age: number) {
-  console.log("User " + username + " age: " + age)
-  if(username == "Max" || age == 24) {
-    console.log("HI MAX")
-  } else {
-    console.log("Not Max :(")
-  }
-}
-userInfo("Stephan", 24)
-userInfo("Maxi", 26)
-userInfo("Andreas", 24)
-userInfo("Christian", 24)
+// // arrStrings[1] = "Hallo"
 
+// let counter = 0
+// // console.log(arrStrings)
+// for(let i = arrStrings.length - 1; i >= 0; i--) {
+//   if(arrStrings[i] == "Hello") {
+//     ++counter
+//   }
+// }
+// console.log(counter)
